@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Halima-Hussein
+- 👋 Hi, I’m Halima Hussein
 - 👀 I’m interested in career development.
 - 🌱 I’m currently learning the MERN stack to develop a full-stack applications and expand my expertise to in modern web development technologies.
 - 💞️ I’m looking to collaborate on full-stack web development projects.
